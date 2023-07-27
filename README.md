@@ -1,2 +1,4 @@
 # cheet-sheets
-Collection of cheet sheeds
+## Collection of usefull cheet sheets
+[VIM](cs-vim.md)
+
