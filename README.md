@@ -1,6 +1,7 @@
 # cheet-sheets
 ## Collection of usefull cheet sheets
 [VIM](cs-vim.md)
+[Eclipse](cs-eclipse.md)
 
 ## Disclaimer
 
